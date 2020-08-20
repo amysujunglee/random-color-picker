@@ -3,7 +3,7 @@
 You can simple get a random backgroud color by clicking 'Click Me' button.
 The color is a random hexcode.
 
-Main language: JavaScript
+Main languages: JavaScript, HTML, CSS
 
 Skills:
 
