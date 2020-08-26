@@ -1,9 +1,17 @@
 # random-color-picker
 
-You can simple get a random backgroud color by clicking 'Click Me' button.
-The color is a random hexcode.
+A random color picket that you can get a random hexcode by changing backgroud color and getting hexcode in text.
 
 Languages used: JavaScript, HTML, CSS
+Methods used:
 
-- Used 'for' loop to get 6 random hexcode - looping in an array ['0', '1', '2', '3', '4', '5' ... 'D', 'E', 'F'].
-- Created a reusable function to get random number - used Math.floor() and Math.random().
+- Array
+- for loop
+- Math.floor() and Math.random()
+
+Steps:
+
+- 1. Select items: value and button
+- 2. Create an array for hex: 0-9 and A-F
+- 3. Set a click event for 'Click Me!' button to apply random hexcode into backgroud color and text field
+- 4. Set a function to get random hexcode
