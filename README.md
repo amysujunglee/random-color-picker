@@ -3,6 +3,7 @@
 A random color picker that you can get a random hexcode by changing backgroud color and getting hexcode in text.
 
 Languages used: JavaScript, HTML, CSS
+
 Methods used:
 - Array
 - for loop
