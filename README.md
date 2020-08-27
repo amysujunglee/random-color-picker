@@ -10,7 +10,8 @@ Methods used:
 - Math.floor() and Math.random()
 
 Steps:
-- 1. Select items: value and button
-- 2. Create an array for hex: 0-9 and A-F
-- 3. Set a click event for 'Click Me!' button to apply random hexcode into backgroud color and text field
-- 4. Set a function to get random hexcode
+- Select items: value and button
+- Create an array for hex: 0-9 and A-F
+- Set a click event for 'Click Me!' button
+  - Get a random hexcode for background color and text field
+- Set a function to get random number
