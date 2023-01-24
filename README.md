@@ -1,5 +1,5 @@
 # Random Color Picker
-A random color picker that you can get a random hexcode by changing backgroud color and getting hexcode in text.
+A random color picker that you can get a random hexcode by changing backgroud color and getting hexcode in text
 
 ## Languages
 - JavaScript, HTML, CSS
