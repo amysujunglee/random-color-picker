@@ -16,7 +16,7 @@ const hex = [
   "E",
   "F"
 ];
-const btn = document.getElementById("btn");
+const btn = document.querySelector("#btn");
 const color = document.querySelector(".color");
 
 btn.addEventListener("click", function() {
